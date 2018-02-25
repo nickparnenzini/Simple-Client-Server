@@ -18,7 +18,7 @@ int main(int argc, char* argv[]) {
 
     int newfd;
     int addrlen;
-	  char buffer[1024];
+    char buffer[1024];
 
     port = strtol(argv[1],&process_number,10);
 
